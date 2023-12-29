@@ -1,11 +1,6 @@
-
 # Semantic HTML
 
 Semantic HTML refers to the use of HTML markup to convey the meaning of the content on a web page, rather than just its appearance. Semantic helps search engines and other technologies understand the structure and purpose of the content on your site. It makes your content more accessible to people who use assistive technologies to navigate the web and also it makes your code easier to read and maintain, since the purpose of each element is clear.
-
-
-
-
 
 ## Header
 
@@ -36,7 +31,7 @@ The `<nav>` tag is used to mark up a section of web page that contains navigatio
 </nav>
 ```
 
-## Main 
+## Main
 
 The `<main>` tag is used to mark up the main content area of a web page. This tag makes it easy to know which part of your page contains the main content.
 
@@ -56,7 +51,7 @@ The `<aside>` tag is used t mark up content that is related to the main content 
 
 ## Section
 
-The `<section> element is used to mark up sections of as web page that are thematically grouped together. This might include things like chapters or sections of a long article, or different parts of a product page.
+The `<section>` element is used to mark up sections of as web page that are thematically grouped together. This might include things like chapters or sections of a long article, or different parts of a product page.
 
 ![Code Sample](https://github.com/VusumuziLindelweKhumalo/Semantic_HTML/blob/main/images/Section.png?raw=true)
 
@@ -80,29 +75,31 @@ The `<figure>` and `<figcaption>` tags are used to mark up a self contained piec
 
 ---
 
-# Additional HTML5
+## Additional HTML5
 
-## Mark
+### Mark
+
 - This tag is used to mark up text that has been highlighted. This might include things like search results, or text that has been highlighted by a user.
 
 ![Code Sample](https://github.com/VusumuziLindelweKhumalo/Semantic_HTML/blob/main/images/Mark.png?raw=true)
 
-## Time
+### Time
+
 - The `<time>` tag is used to mark up a date or time. `<time>` tag, can make it easier for search engines and other technologies to understand the meaning of the content on your page.
 
 ![Code Sample](https://github.com/VusumuziLindelweKhumalo/Semantic_HTML/blob/main/images/Time.png?raw=true)
 
-## Progress
+### Progress
 
 The `<progress>` tag is used to mark up a progress bar. By using this tag, you can make it easier for users to understand the progress of a task.
 
 ![Code Sample](https://github.com/VusumuziLindelweKhumalo/Semantic_HTML/blob/main/images/Progress.png?raw=true)
 
-## `<div>` and `<span>`
+### `<div>` and `<span>`
 
 The `<div>` and `<span>` tags are not semantic tags. They are used to mark up deneric content areas, and do not convey any specific meaning.
 
 ## Sources
 
- - [Writing Semantic HTML](https://cs.fyi/guide/writing-semantic-html)
- - [Semantic HTML5 elements](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them)
+- [Writing Semantic HTML](https://cs.fyi/guide/writing-semantic-html)
+- [Semantic HTML5 elements](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them)
